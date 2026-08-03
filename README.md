@@ -9,7 +9,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZ3bnZrY2N5ZjFlNHpnOHplbXY2Y2lkcmNjcmY0NHlxdHd1bmFmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BJJ1RUn8QaDJktOc1S/giphy.gif"  />
+<img data-importer="image" align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGoxY3k4ZzJmcXJ4eGtrc2t6amh2YW43bG9vZWgxMWdnOHZmcThieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BJJ1RUn8QaDJktOc1S/giphy.gif"  />
 
 ###
 
@@ -48,13 +48,3 @@
 </picture>
 
 ###
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ancient5un&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Ancient5un&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ancient5un&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
