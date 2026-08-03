@@ -2,6 +2,7 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=4B2E83"  />
 </div>
 
+##
 
 <div align="center">
   <samp>
@@ -17,10 +18,11 @@
 <div align="center">
   <img src="https://img.shields.io/badge/meow_>///<-purple" />
 </div>
-      
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9370db&width=900&size=21&center=true&lines=I+am+from+Indonesian;I'm+a+student+of+Computer+Science;Be+welcome!" alt="Typing SVG"/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Bungee&size=21&pause=1000&color=821DF7&center=true&width=900&lines=I+am+from+Indonesian;I'm+student+of+Computer+Science;Be+Welcome!!" />
 </div>
+
 
 <br>
 
@@ -35,14 +37,13 @@
 
 ##
 
-<br clear="both">
 
 <div data-importer="stats" align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Ancient5un&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/Ancient5un/Ancient5un/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=midnight-purple&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-
+##
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
@@ -81,6 +82,8 @@
 </picture>
 
 </details>
+
+##
 
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=4B2E83"  />
