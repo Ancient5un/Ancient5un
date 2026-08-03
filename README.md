@@ -3,7 +3,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Ancient5un/Ancient5un/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&custom_title=Github%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.shion.dev/api?username=Ancient5un&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/Ancient5un/Ancient5un/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=midnight-purple&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
@@ -48,3 +48,13 @@
 </picture>
 
 ###
+
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Ancient5un&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Ancient5un&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ancient5un&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
