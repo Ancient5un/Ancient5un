@@ -15,8 +15,10 @@
   <img src="cat.gif" width="200">
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/meow_>///<-purple" />
+  <img src="https://img.shields.io/badge/Miaw%20>///<%20-8A2BE2?style=for-the-badge" />
 </div>
+
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Bungee&size=21&pause=1000&color=821DF7&center=true&width=900&lines=I+am+from+Indonesian;I'm+student+of+Computer+Science;Be+Welcome!!" />
@@ -60,10 +62,10 @@
 
 <div data-importer="socials" align="center">
   <a href="https://www.instagram.com/mhmdakbaribrhm/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000000&logoColor=purple&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000000&logoColor=8A2BE2&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://discordapp.com/users/1274736420115972187" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000000&logoColor=purple&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000000&logoColor=8A2BE2&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/muhamad-akbar-ibrahim-ba0045318/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=purple&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
