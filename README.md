@@ -2,6 +2,8 @@
 
 ###
 
+<br clear="both">
+
 <div data-importer="stats" align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Ancient5un&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/Ancient5un/Ancient5un/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=midnight-purple&hide_border=true" height="150" alt="languages graph"  />
@@ -9,7 +11,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="200" src="cat.gif"  />
+<img data-importer="image" align="right" height="150" src="cat.gif"  />
 
 ###
 
@@ -34,18 +36,19 @@
   <a href="https://discordapp.com/users/1274736420115972187" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000000&logoColor=purple&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=purple&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/muhamad-akbar-ibrahim-ba0045318/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=purple&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
 
 <br clear="both">
-<br>
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ancient5un/Ancient5un/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ancient5un/Ancient5un/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ancient5un/Ancient5un/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ancient5un/Ancient5un/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ancient5un/Ancient5un/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ancient5un/Ancient5un/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
 ###
