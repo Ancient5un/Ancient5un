@@ -9,7 +9,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="pfp.gif"  />
+<img data-importer="image" align="right" height="200" src="cat.gif"  />
 
 ###
 
@@ -40,6 +40,7 @@
 ###
 
 <br clear="both">
+<br>
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ancient5un/Ancient5un/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
